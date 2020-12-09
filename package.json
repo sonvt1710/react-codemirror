@@ -48,7 +48,7 @@
   "devDependencies": {
     "@kkt/loader-less": "5.10.3",
     "@kkt/loader-raw": "5.10.3",
-    "@types/codemirror": "0.0.97",
+    "@types/codemirror": "0.0.102",
     "@uiw/react-github-corners": "1.2.0",
     "@uiw/react-markdown-preview": "1.0.9",
     "@uiw/react-shields": "1.1.0",
