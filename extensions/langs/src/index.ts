@@ -267,6 +267,7 @@ export const langs = {
   pxd: () => StreamLanguage.define(cython),
   pxi: () => StreamLanguage.define(cython),
   py: () => python(),
+  python: () => python(),
   pyw: () => python(),
   pyx: () => StreamLanguage.define(cython),
   q: () => StreamLanguage.define(q),
